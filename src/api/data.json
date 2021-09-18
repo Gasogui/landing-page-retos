@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "imgPath": " ",
+      "name":"Expanding Cards",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/01-expanding-cards/index.html"     
+    },    
+    {
+      "id": 2,
+      "imgPath": " ",
+      "name": "progress Steps",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/02-progress-steps/index.html"     
+    },
+    {
+      "id": 3,
+      "imgPath": " ",
+      "name": "Rotating Navigation",
+      "retoPath": "https://gasogui.github.io/retos-js/retos//03-rotating-navigation/index.html"     
+    },
+    {
+      "id": 4,
+      "imgPath": " ",
+      "name": "Hidden Search",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/04-hidden-search/index.html"     
+    },
+    {
+      "id": 5,
+      "imgPath": " ",
+      "name": "Blurry Loading",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/05-blurry-loading/index.html"     
+    }
+
+  ]
+
