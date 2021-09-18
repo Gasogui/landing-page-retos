@@ -8,7 +8,7 @@
     {
       "id": 2,
       "imgPath": " ",
-      "name": "progress Steps",
+      "name": "Progress Steps",
       "retoPath": "https://gasogui.github.io/retos-js/retos/02-progress-steps/index.html"     
     },
     {
@@ -28,6 +28,120 @@
       "imgPath": " ",
       "name": "Blurry Loading",
       "retoPath": "https://gasogui.github.io/retos-js/retos/05-blurry-loading/index.html"     
+    },
+    {
+      "id": 6,
+      "imgPath": " ",
+      "name": "Drag N Drop ",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/06-drag-n-drop/index.html"     
+    },
+    {
+      "id": 7,
+      "imgPath": " ",
+      "name": "Auto Text",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/07-auto-text/index.html"     
+    },
+    {
+      "id": 8,
+      "imgPath": " ",
+      "name": "Hoverboard ",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/08-hoverboard/index.html"     
+    },
+    {
+      "id": 9,
+      "imgPath": " ",
+      "name": "Scroll Animation",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/09-scroll-animation/index.html"     
+    },
+    {
+      "id": 10,
+      "imgPath": " ",
+      "name": "Form Input Wave",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/10-form-input-wave/index.html"     
+    },
+    {
+      "id": 11,
+      "imgPath": " ",
+      "name": "Dad Jokes",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/11-dad-jokes/index.html"     
+    },
+    {
+      "id": 12,
+      "imgPath": " ",
+      "name": "Sound Board",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/12-sound-board/index.html"     
+    },
+    {
+      "id": 13,
+      "imgPath": " ",
+      "name": "Live User Filter",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/13-live-user-filter/index.html"     
+    },
+    {
+      "id": 14,
+      "imgPath": " ",
+      "name": "Button Ripple Effect",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/14-button-ripple-effect/index.html"     
+    },
+    {
+      "id": 15,
+      "imgPath": " ",
+      "name": "Background Slider",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/15-background-slider/index.html"     
+    },
+    {
+      "id": 16,
+      "imgPath": " ",
+      "name": "Kinetic loader",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/16-kinetic-loader/index.html"     
+    },
+    {
+      "id": 17,
+      "imgPath": " ",
+      "name": "Netflix Navigation",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/17-netflix-navigation/index.html"     
+    },
+    {
+      "id": 18,
+      "imgPath": " ",
+      "name": "Testimonial Box Switcher",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/18-testimonial-box-switcher/index.html"     
+    },
+    {
+      "id": 19,
+      "imgPath": " ",
+      "name": "Pokedex",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/19-pokedex/index.html"     
+    },
+    {
+      "id": 20,
+      "imgPath": " ",
+      "name": "Doble click Heart",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/20-doble-click-heart/index.html"     
+    },
+    {
+      "id": 21,
+      "imgPath": " ",
+      "name": "Event Keycodes",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/21-event-keycodes/index.html"     
+    },
+    {
+      "id": 22,
+      "imgPath": " ",
+      "name": "Mobile Nav Navigation",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/22-mobile-nav-navigation/index.html"     
+    },
+    {
+      "id": 23,
+      "imgPath": " ",
+      "name": "Drink Water",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/23-drink-water/index.html"     
+    },
+    {
+      "id": 24,
+      "imgPath": " ",
+      "name": "Feedback UI Desing",
+      "retoPath": "https://gasogui.github.io/retos-js/retos/24-feedback-ui-desing/index.html"     
     }
 
   ]
