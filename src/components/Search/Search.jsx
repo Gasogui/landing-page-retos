@@ -25,13 +25,13 @@ function Search({ details }) {
   }
 
   return (
-    <section className="garamond">
-      <div className="navy georgia ma0 grow">
-        <h2 className="f2">Busca un reto</h2>
+    <section className="">
+      <div className=" ">
+        <h2 className=" ">Busca un reto</h2>
       </div>
-      <div className="pa2">
+      <div className=" ">
         <input
-          className="pa3 bb br3 grow b--none bg-lightest-blue ma3"
+          className=" "
           type="search"
           placeholder="Search"
           onChange={handleChange}

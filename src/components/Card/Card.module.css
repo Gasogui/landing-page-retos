@@ -1,0 +1,14 @@
+/* --- src/components/Card/Card.css --- */
+
+a {
+  text-decoration: none;
+}
+.card {
+  border: thin solid gray;
+  padding: 1rem;
+  text-align: center;
+}
+
+.img {
+  width: 100%;
+}

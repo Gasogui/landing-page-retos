@@ -7,7 +7,7 @@ import Card from '../Card/Card';
 function SearchList({ filtereReto }) {
   const filtered = filtereReto.map(reto =>  <Card key={reto.id} reto={reto} />); 
   return (
-    <div>
+    <div className="box grid-responsive" >
       {filtered}
     </div>
   );
