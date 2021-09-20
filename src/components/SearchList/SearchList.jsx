@@ -3,12 +3,15 @@
 
 import React from 'react';
 import Card from '../Card/Card';
+import style from './SearchList.module.css';
 
 function SearchList({ filtereReto }) {
-  const filtered = filtereReto.map(reto =>  <Card key={reto.id} reto={reto} />); 
+  const filtered = filtereReto.map(reto => <Card key={reto.id} reto={reto} />);
   return (
-    <div className="box grid-responsive" >
-      {filtered}
+    <div lassName={style.container} >
+      <div className={style.box} >
+        {filtered}
+      </div>
     </div>
   );
 }

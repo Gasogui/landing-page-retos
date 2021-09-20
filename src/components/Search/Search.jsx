@@ -1,9 +1,10 @@
-// src/components/Search.js
+// src/components/Search/Search.js
 // Main search component
 
 import React, { useState } from "react";
 import Scroll from "../Scroll/Scroll";
 import SearchList from "../SearchList/SearchList";
+import style from "./Search.module.css";
 
 function Search({ details }) {
   const [searchField, setSearchField] = useState("");
@@ -26,12 +27,10 @@ function Search({ details }) {
 
   return (
     <section className="">
-      <div className=" ">
-        <h2 className=" ">Busca un reto</h2>
-      </div>
-      <div className=" ">
+      <div className={style.container}>
+      {/*   <h2 className=" ">Busca un reto</h2> */}
         <input
-          className=" "
+          className={style.search}
           type="search"
           placeholder="Search"
           onChange={handleChange}
